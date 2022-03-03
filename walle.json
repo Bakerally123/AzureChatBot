@@ -1,0 +1,2164 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Wealth-Conservative Strategy Dis",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Core Portfolios",
+      "strtTyp": "Model",
+      "strtStyle": "Strategic",
+      "isAlts": "Y",
+      "isMuni": "N",
+      "rsk": "1",
+      "rskScore": "3.45",
+      "minInvAmt": "1000",
+      "trlRtnYTD": "3.45",
+      "trlRtn1MO": "1.45",
+      "trlRtn3MO": "2",
+      "trlRtn1Y": "4.2",
+      "trlRtn3Y": "3.45",
+      "trlRtn5Y": "2",
+      "trlRtn10Y": "3.5",
+      "trlRtnInc": "3.45",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "16",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "6",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "10",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Wealth Conservative with Alts Muni",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Core Portfolios",
+      "strtTyp": "Model",
+      "strtStyle": "Passive",
+      "isAlts": "Y",
+      "isMuni": "Y",
+      "rsk": "1",
+      "rskScore": "3.78",
+      "minInvAmt": "500",
+      "trlRtnYTD": "2.34",
+      "trlRtn1MO": "2.34",
+      "trlRtn3MO": "3.4",
+      "trlRtn1Y": "3.56",
+      "trlRtn3Y": "4",
+      "trlRtn5Y": "3.4",
+      "trlRtn10Y": "2.3",
+      "trlRtnInc": "2.75",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "16",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "6",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "10",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Wealth Conservative with Muni",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Core Portfolios",
+      "strtTyp": "Model",
+      "strtStyle": "Active",
+      "isAlts": "N",
+      "isMuni": "Y",
+      "rsk": "1",
+      "rskScore": "2.34",
+      "minInvAmt": "10000",
+      "trlRtnYTD": "3.45",
+      "trlRtn1MO": "3",
+      "trlRtn3MO": "2.45",
+      "trlRtn1Y": "4",
+      "trlRtn3Y": "3.45",
+      "trlRtn5Y": "3.4",
+      "trlRtn10Y": "3.5",
+      "trlRtnInc": "3.45",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "16",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "6",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "10",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Wealth Conservative Strategic with Alts",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Active Passive Model",
+      "strtTyp": "Model",
+      "strtStyle": "Active",
+      "isAlts": "Y",
+      "isMuni": "N",
+      "rsk": "1",
+      "rskScore": "4.56",
+      "minInvAmt": "1000",
+      "trlRtnYTD": "2.34",
+      "trlRtn1MO": "3",
+      "trlRtn3MO": "3.32",
+      "trlRtn1Y": "2.4",
+      "trlRtn3Y": "4",
+      "trlRtn5Y": "2",
+      "trlRtn10Y": "3.5",
+      "trlRtnInc": "2.75",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "16",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "6",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "10",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Wealth Conservative with Strategic Alts Muni",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Strategic Portfolios",
+      "strtTyp": "Model",
+      "strtStyle": "Strategic",
+      "isAlts": "Y",
+      "isMuni": "Y",
+      "rsk": "1",
+      "rskScore": "6.45",
+      "minInvAmt": "1000",
+      "trlRtnYTD": "5.2",
+      "trlRtn1MO": "4.25",
+      "trlRtn3MO": "3.33",
+      "trlRtn1Y": "-1.5",
+      "trlRtn3Y": "4.5",
+      "trlRtn5Y": "3.2",
+      "trlRtn10Y": "6.87",
+      "trlRtnInc": "5.57",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "16",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "6",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "10",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Wealth Conservative Active with Alts Muni",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Core Portfolios",
+      "strtTyp": "Model",
+      "strtStyle": "Active",
+      "isAlts": "Y",
+      "isMuni": "N",
+      "rsk": "1",
+      "rskScore": "4.78",
+      "minInvAmt": "500",
+      "trlRtnYTD": "2.34",
+      "trlRtn1MO": "3",
+      "trlRtn3MO": "3.4",
+      "trlRtn1Y": "4",
+      "trlRtn3Y": "4",
+      "trlRtn5Y": "3.4",
+      "trlRtn10Y": "2.3",
+      "trlRtnInc": "3.45",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "16",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "6",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "10",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Income Active with Alts",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Core Portfolios",
+      "strtTyp": "Model",
+      "strtStyle": "Active",
+      "isAlts": "Y",
+      "isMuni": "N",
+      "rsk": "2",
+      "rskScore": "6.45",
+      "minInvAmt": "1000",
+      "trlRtnYTD": "4.5",
+      "trlRtn1MO": "5.6",
+      "trlRtn3MO": "2.35",
+      "trlRtn1Y": "7.65",
+      "trlRtn3Y": "-2.45",
+      "trlRtn5Y": "2.35",
+      "trlRtn10Y": "2.45",
+      "trlRtnInc": "3.68",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "16",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "16",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "20",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Income Active with Muni",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Core Portfolios",
+      "strtTyp": "Model",
+      "strtStyle": "Active",
+      "isAlts": "N",
+      "isMuni": "Y",
+      "rsk": "2",
+      "rskScore": "5.67",
+      "minInvAmt": "500",
+      "trlRtnYTD": "2.25",
+      "trlRtn1MO": "-0.16",
+      "trlRtn3MO": "-1.45",
+      "trlRtn1Y": "3.46",
+      "trlRtn3Y": "4",
+      "trlRtn5Y": "2",
+      "trlRtn10Y": "3.5",
+      "trlRtnInc": "2.75",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "16",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "16",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "20",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Income Active with Alts Muni",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Strategic",
+      "strtTyp": "Model",
+      "strtStyle": "Active",
+      "isAlts": "Y",
+      "isMuni": "Y",
+      "rsk": "2",
+      "rskScore": "6.69",
+      "minInvAmt": "1000",
+      "trlRtnYTD": "5.2",
+      "trlRtn1MO": "4.25",
+      "trlRtn3MO": "2.45",
+      "trlRtn1Y": "3.56",
+      "trlRtn3Y": "4.5",
+      "trlRtn5Y": "3.2",
+      "trlRtn10Y": "2.45",
+      "trlRtnInc": "2.75",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "16",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "16",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "20",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Income Strategic with Alts",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Core Portfolios",
+      "strtTyp": "Model",
+      "strtStyle": "Passive",
+      "isAlts": "Y",
+      "isMuni": "N",
+      "rsk": "2",
+      "rskScore": "6.84",
+      "minInvAmt": "500",
+      "trlRtnYTD": "-4.34",
+      "trlRtn1MO": "-3.2",
+      "trlRtn3MO": "-4.52",
+      "trlRtn1Y": "4.67",
+      "trlRtn3Y": "5.34",
+      "trlRtn5Y": "6.45",
+      "trlRtn10Y": "7.56",
+      "trlRtnInc": "5.32",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "16",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "16",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "20",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Income Strategic with Muni",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Core Portfolios",
+      "strtTyp": "Model",
+      "strtStyle": "Strategic",
+      "isAlts": "N",
+      "isMuni": "Y",
+      "rsk": "2",
+      "rskScore": "6.29",
+      "minInvAmt": "1000",
+      "trlRtnYTD": "6.89",
+      "trlRtn1MO": "5.79",
+      "trlRtn3MO": "4.35",
+      "trlRtn1Y": "6.49",
+      "trlRtn3Y": "5.48",
+      "trlRtn5Y": "6.49",
+      "trlRtn10Y": "5.49",
+      "trlRtnInc": "8.48",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "16",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "16",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "20",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Income Strategic with Alts Muni",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Active Passive Model",
+      "strtTyp": "Model",
+      "strtStyle": "Active",
+      "isAlts": "Y",
+      "isMuni": "Y",
+      "rsk": "2",
+      "rskScore": "7.59",
+      "minInvAmt": "500",
+      "trlRtnYTD": "3.45",
+      "trlRtn1MO": "5.45",
+      "trlRtn3MO": "5.14",
+      "trlRtn1Y": "-1.46",
+      "trlRtn3Y": "2.45",
+      "trlRtn5Y": "2.79",
+      "trlRtn10Y": "3.17",
+      "trlRtnInc": "3.69",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "16",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "16",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "20",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Balanced Growth Active with Alts",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Strategic Portfolios",
+      "strtTyp": "Model",
+      "strtStyle": "Active",
+      "isAlts": "Y",
+      "isMuni": "N",
+      "rsk": "3",
+      "rskScore": "8.49",
+      "minInvAmt": "500",
+      "trlRtnYTD": "7.59",
+      "trlRtn1MO": "6.15",
+      "trlRtn3MO": "6.45",
+      "trlRtn1Y": "5.65",
+      "trlRtn3Y": "5.89",
+      "trlRtn5Y": "5.29",
+      "trlRtn10Y": "5",
+      "trlRtnInc": "5.89",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Balanced Growth Active with Muni",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Core Portfolios",
+      "strtTyp": "Model",
+      "strtStyle": "Active",
+      "isAlts": "N",
+      "isMuni": "Y",
+      "rsk": "3",
+      "rskScore": "7.59",
+      "minInvAmt": "1500",
+      "trlRtnYTD": "6.49",
+      "trlRtn1MO": "6.71",
+      "trlRtn3MO": "6.89",
+      "trlRtn1Y": "6.49",
+      "trlRtn3Y": "7.49",
+      "trlRtn5Y": "8.29",
+      "trlRtn10Y": "8.16",
+      "trlRtnInc": "6.74",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Balanced Growth Active with Alts Muni",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Strategic",
+      "strtTyp": "Model",
+      "strtStyle": "Passive",
+      "isAlts": "Y",
+      "isMuni": "Y",
+      "rsk": "3",
+      "rskScore": "7.59",
+      "minInvAmt": "500",
+      "trlRtnYTD": "5.2",
+      "trlRtn1MO": "4.25",
+      "trlRtn3MO": "2.45",
+      "trlRtn1Y": "-1.5",
+      "trlRtn3Y": "-2.45",
+      "trlRtn5Y": "-2.59",
+      "trlRtn10Y": "-2.3",
+      "trlRtnInc": "3.45",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Balanced Growth Strategic with Alts",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Core Portfolios",
+      "strtTyp": "Model",
+      "strtStyle": "Strategic",
+      "isAlts": "Y",
+      "isMuni": "N",
+      "rsk": "3",
+      "rskScore": "8.47",
+      "minInvAmt": "1000",
+      "trlRtnYTD": "4.15",
+      "trlRtn1MO": "4.26",
+      "trlRtn3MO": "4.59",
+      "trlRtn1Y": "5.89",
+      "trlRtn3Y": "6.29",
+      "trlRtn5Y": "4.79",
+      "trlRtn10Y": "6.11",
+      "trlRtnInc": "6.13",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Balanged Growth Strategic with Muni",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Core Portfolios",
+      "strtTyp": "Model",
+      "strtStyle": "Strategic",
+      "isAlts": "N",
+      "isMuni": "Y",
+      "rsk": "3",
+      "rskScore": "8.59",
+      "minInvAmt": "1000",
+      "trlRtnYTD": "4.5",
+      "trlRtn1MO": "4.25",
+      "trlRtn3MO": "3.33",
+      "trlRtn1Y": "4.2",
+      "trlRtn3Y": "4.5",
+      "trlRtn5Y": "4.89",
+      "trlRtn10Y": "4.59",
+      "trlRtnInc": "4.85",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Balanced Growth Strategic with Alts Muni",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Core Portfolios",
+      "strtTyp": "Model",
+      "strtStyle": "Strategic",
+      "isAlts": "Y",
+      "isMuni": "Y",
+      "rsk": "3",
+      "rskScore": "8.34",
+      "minInvAmt": "500",
+      "trlRtnYTD": "6.89",
+      "trlRtn1MO": "5.6",
+      "trlRtn3MO": "3.4",
+      "trlRtn1Y": "6.49",
+      "trlRtn3Y": "3.45",
+      "trlRtn5Y": "2.35",
+      "trlRtn10Y": "6.87",
+      "trlRtnInc": "3.68",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Market Growth Active with Alt",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Core Portfolios",
+      "strtTyp": "Model",
+      "strtStyle": "Active",
+      "isAlts": "Y",
+      "isMuni": "N",
+      "rsk": "4",
+      "rskScore": "10.59",
+      "minInvAmt": "1000",
+      "trlRtnYTD": "7.8",
+      "trlRtn1MO": "8.49",
+      "trlRtn3MO": "8.36",
+      "trlRtn1Y": "6.49",
+      "trlRtn3Y": "6.99",
+      "trlRtn5Y": "6.74",
+      "trlRtn10Y": "6.15",
+      "trlRtnInc": "5.16",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Market Growth Active with Muni",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Active Passive Model",
+      "strtTyp": "Model",
+      "strtStyle": "Active",
+      "isAlts": "N",
+      "isMuni": "Y",
+      "rsk": "4",
+      "rskScore": "12.39",
+      "minInvAmt": "1500",
+      "trlRtnYTD": "8.59",
+      "trlRtn1MO": "8.01",
+      "trlRtn3MO": "8.16",
+      "trlRtn1Y": "6.19",
+      "trlRtn3Y": "7.49",
+      "trlRtn5Y": "7.65",
+      "trlRtn10Y": "5.19",
+      "trlRtnInc": "5.19",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Market Growth Active with Alt Muni",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Active Passive Model",
+      "strtTyp": "Model",
+      "strtStyle": "Active",
+      "isAlts": "Y",
+      "isMuni": "Y",
+      "rsk": "4",
+      "rskScore": "11.53",
+      "minInvAmt": "1500",
+      "trlRtnYTD": "-1.59",
+      "trlRtn1MO": "-2.15",
+      "trlRtn3MO": "-2.64",
+      "trlRtn1Y": "8.12",
+      "trlRtn3Y": "7.89",
+      "trlRtn5Y": "7.62",
+      "trlRtn10Y": "7.16",
+      "trlRtnInc": "6.14",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Market Growth Strategic with Alt",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Active Passive Model",
+      "strtTyp": "Model",
+      "strtStyle": "Strategic",
+      "isAlts": "Y",
+      "isMuni": "N",
+      "rsk": "4",
+      "rskScore": "9.59",
+      "minInvAmt": "500",
+      "trlRtnYTD": "-1.59",
+      "trlRtn1MO": "-2.69",
+      "trlRtn3MO": "-1.25",
+      "trlRtn1Y": "0.25",
+      "trlRtn3Y": "5.26",
+      "trlRtn5Y": "6.29",
+      "trlRtn10Y": "7.49",
+      "trlRtnInc": "7.69",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Market Growth Strategic with Muni",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Core Portfolios",
+      "strtTyp": "Model",
+      "strtStyle": "Strategic",
+      "isAlts": "N",
+      "isMuni": "Y",
+      "rsk": "4",
+      "rskScore": "11.26",
+      "minInvAmt": "500",
+      "trlRtnYTD": "-2.54",
+      "trlRtn1MO": "-1.26",
+      "trlRtn3MO": "-2.69",
+      "trlRtn1Y": "-1.69",
+      "trlRtn3Y": "4.26",
+      "trlRtn5Y": "5.69",
+      "trlRtn10Y": "5.98",
+      "trlRtnInc": "5.49",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Market Growth Strategic with Alt Muni",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Active Passive Model",
+      "strtTyp": "Model",
+      "strtStyle": "Strategic",
+      "isAlts": "Y",
+      "isMuni": "Y",
+      "rsk": "4",
+      "rskScore": "13.29",
+      "minInvAmt": "1000",
+      "trlRtnYTD": "9.89",
+      "trlRtn1MO": "9.46",
+      "trlRtn3MO": "9.26",
+      "trlRtn1Y": "9.16",
+      "trlRtn3Y": "9.15",
+      "trlRtn5Y": "9.16",
+      "trlRtn10Y": "9.46",
+      "trlRtnInc": "10.26",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Opportunistic Growth Active with Alt",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Active Passive Model",
+      "strtTyp": "Model",
+      "strtStyle": "Strategic",
+      "isAlts": "Y",
+      "isMuni": "Y",
+      "rsk": "5",
+      "rskScore": "20.36",
+      "minInvAmt": "500",
+      "trlRtnYTD": "-1.29",
+      "trlRtn1MO": "-1.69",
+      "trlRtn3MO": "1.59",
+      "trlRtn1Y": "10.59",
+      "trlRtn3Y": "11.96",
+      "trlRtn5Y": "11.69",
+      "trlRtn10Y": "11.96",
+      "trlRtnInc": "10.58",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Opportunistic Growth Active with Muni",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Core Portfolios",
+      "strtTyp": "Model",
+      "strtStyle": "Active",
+      "isAlts": "N",
+      "isMuni": "Y",
+      "rsk": "5",
+      "rskScore": "18.69",
+      "minInvAmt": "1000",
+      "trlRtnYTD": "10.69",
+      "trlRtn1MO": "9.59",
+      "trlRtn3MO": "8.67",
+      "trlRtn1Y": "5.19",
+      "trlRtn3Y": "6.29",
+      "trlRtn5Y": "6.98",
+      "trlRtn10Y": "6.19",
+      "trlRtnInc": "6.49",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Opportunistic Growth Active with Alt Muni",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Active Passive Model",
+      "strtTyp": "Model",
+      "strtStyle": "Active",
+      "isAlts": "Y",
+      "isMuni": "Y",
+      "rsk": "5",
+      "rskScore": "18.49",
+      "minInvAmt": "500",
+      "trlRtnYTD": "10.24",
+      "trlRtn1MO": "12.36",
+      "trlRtn3MO": "12.89",
+      "trlRtn1Y": "9.59",
+      "trlRtn3Y": "8.56",
+      "trlRtn5Y": "9.35",
+      "trlRtn10Y": "10.69",
+      "trlRtnInc": "10.67",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Opportunistic Growth Strategic with Alt",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Core Portfolios",
+      "strtTyp": "Model",
+      "strtStyle": "Active",
+      "isAlts": "Y",
+      "isMuni": "N",
+      "rsk": "5",
+      "rskScore": "25.69",
+      "minInvAmt": "200",
+      "trlRtnYTD": "1.69",
+      "trlRtn1MO": "2.69",
+      "trlRtn3MO": "-1.2",
+      "trlRtn1Y": "-1.69",
+      "trlRtn3Y": "6.29",
+      "trlRtn5Y": "7.13",
+      "trlRtn10Y": "8.69",
+      "trlRtnInc": "8.69",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Opportunistic Growth Strategic with Muni",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Active Passive Model",
+      "strtTyp": "Model",
+      "strtStyle": "Strategic",
+      "isAlts": "N",
+      "isMuni": "Y",
+      "rsk": "5",
+      "rskScore": "31.59",
+      "minInvAmt": "1500",
+      "trlRtnYTD": "14.29",
+      "trlRtn1MO": "14.9",
+      "trlRtn3MO": "14.69",
+      "trlRtn1Y": "14.29",
+      "trlRtn3Y": "12.36",
+      "trlRtn5Y": "10.39",
+      "trlRtn10Y": "10.94",
+      "trlRtnInc": "10.47",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Opportunistic Growth Strategic with Alt Muni",
+      "prgElig": "UMA",
+      "prdTyp": "Firm Discretionary",
+      "subTyp": "Active Passive Model",
+      "strtTyp": "Model",
+      "strtStyle": "Active",
+      "isAlts": "Y",
+      "isMuni": "Y",
+      "rsk": "5",
+      "rskScore": "24.69",
+      "minInvAmt": "500",
+      "trlRtnYTD": "10.29",
+      "trlRtn1MO": "10.59",
+      "trlRtn3MO": "10.24",
+      "trlRtn1Y": "8.36",
+      "trlRtn3Y": "6.9",
+      "trlRtn5Y": "4.69",
+      "trlRtn10Y": "6.29",
+      "trlRtnInc": "6.24",
+      "products": [
+        {
+          "id": "72201M685",
+          "name": "PIMCO INVEST GRADE CRED BD I2",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X883",
+          "name": "MS 529 CORE FIXED INC",
+          "alloc": "20",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61747C822",
+          "name": "MSILF GOVT SEC PART",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "543912745",
+          "name": "LORD ABBETT SH/DUR TAX FREE F",
+          "alloc": "10",
+          "asset_cls_lvl1": "FIXED INCOME",
+          "asset_cls_lvl2": "FIXED INCOME",
+          "asset_cls_lvl3": "FIXED INCOME CORE"
+        },
+        {
+          "id": "61770X404",
+          "name": "MS 529 EMERGING MARKETS EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "US EQUITIES",
+          "asset_cls_lvl3": "EMERGING MARKETS EQUITY"
+        },
+        {
+          "id": "61770X305",
+          "name": "MS 529 INTERNATIONAL EQUITY",
+          "alloc": "30",
+          "asset_cls_lvl1": "EQUITIES",
+          "asset_cls_lvl2": "INTERNATIONAL EQUITIES",
+          "asset_cls_lvl3": "INTERNATIONAL EQUITIES"
+        }
+      ]
+    }
+  ]
+}

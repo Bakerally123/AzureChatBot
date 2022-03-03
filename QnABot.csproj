@@ -1,0 +1,49 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <UserSecretsId>7e9cc97e-50d0-436e-8c72-a08b712b4ebf</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AdaptiveCards.Templating" Version="1.2.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.1" />
+    <PackageReference Include="Microsoft.Bot.Builder.AI.QnA" Version="4.9.2" />
+    <PackageReference Include="Microsoft.Bot.Builder.Dialogs" Version="4.15.2" />
+    <PackageReference Include="Microsoft.Bot.Builder.Integration.AspNet.Core" Version="4.9.2" />
+    <PackageReference Include="Microsoft.Bot.Builder.AI.Luis" Version="4.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+	<ItemGroup>
+		<Content Remove="Cards\card1.json" />
+		<Content Remove="cards\modeldetails.json" />
+	</ItemGroup>
+	<ItemGroup>
+		<EmbeddedResource Include="Cards\card1.json" />
+	</ItemGroup>
+	<ItemGroup>
+		<Content Remove="Cards\card2.json" />
+	</ItemGroup>
+	<ItemGroup>
+		<EmbeddedResource Include="Cards\card2.json" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="CognitiveModels\" />
+	  <Folder Include="Files\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <None Include="cards\modeldetails.json" />
+	</ItemGroup>
+	
+
+  <Import Project="PostDeployScripts\IncludeSources.targets" Condition="Exists('PostDeployScripts\IncludeSources.targets')" />
+  <Import Project="..\PostDeployScripts\IncludeSources.targets" Condition="Exists('..\PostDeployScripts\IncludeSources.targets')" />
+
+</Project>
